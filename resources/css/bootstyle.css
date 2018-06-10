@@ -1,0 +1,38 @@
+body {background-color: #383838;}
+@font-face {font-family: 'Comfortaa'; src: url('../font/Comfortaa-Bold.ttf') format('truetype'); font-weight: normal; font-style: normal;}
+.wrapper {background-color: #FFF;}
+.navbar-inner .container {padding: 20px}
+.navbar .brand {font-size: 30px; padding: 3px 20px 12px; font-family: 'Comfortaa', Arial, sans-serif;}
+.navbar .nav > li > a{font-family: 'Comfortaa', Arial, sans-serif;}
+h1, h2 {font-family: 'Comfortaa', Arial, sans-serif; font-size: 26px; font-weight: normal; margin-bottom: 30px;}
+h2 {font-size: 22px; font-weight: normal; margin-bottom: 0;}
+a:hover {text-decoration: none;}
+
+/* -------------------------- content -----------*/
+.slide {margin-top: 50px;}
+.front-content {margin: 10px 0 30px;}
+.front-content a {float: right;}
+.front-content h1 {margin-bottom: 10px;}
+.front-content img {margin-bottom: 15px;}
+.single img {float: right}
+.intro {width: 600px;}
+.page-content {margin: 30px 0 30px 0;}
+.page-content h2 {margin-left: 30px;}
+.page-content img {float: left; padding: 0px 30px 0px 20px;}
+.contact, .single, .project-content{margin: 100px 0 30px 0;}
+.contact-bt button{margin: 20px 20px;}
+.contact img {float: left;}
+.accordion-heading {margin: 10px; font-size: 14px;}
+
+/* -------------------------- footer -----------*/
+.footer {border-top: 1px solid #FFFFFF; background-color: #383838; height: 200px;}
+.footer-wrap {width: 940px; margin: auto; margin-top: 30px;  color: #999;}
+.footer-address, .icon-home, .icon-envelope {float: left;}
+.footer-address p{display:inline-block; padding-left: 10px;}
+p.footer-subscribe  {margin-top: 23px;}
+.footer-sosio {margin-bottom: 10px;}
+.footer-sosio img {padding-right: 5px;}
+.footer-copyright {margin: 30px 0 30px -20px;}
+
+
+
